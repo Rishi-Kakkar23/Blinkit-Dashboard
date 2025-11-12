@@ -1,4 +1,3 @@
-Here’s a clean, professional, and **GitHub-ready README.md** for your Power BI dashboard project — formatted in the typical GitHub style developers and analysts use:
 
 ---
 
@@ -66,5 +65,3 @@ To explore and visualize how various business factors impact sales performance i
 This project uses a **simulated dataset** and is intended **solely for educational purposes**.
 
 ---
-
-Would you like me to make this **Markdown-optimized** (with badges, preview image section, and link placeholders like `[View Dashboard](...)`)? It’ll look visually polished on GitHub.
